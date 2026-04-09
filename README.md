@@ -115,7 +115,7 @@ pig -x local scripts/bai5_top_related_by_category.pig
 
 ---
 
-## 📝 Mô tả từng bài
+## 5. Mô tả từng bài
 
 ### Bài 1 — Tiền xử lý (`bai1_preprocessing.pig`)
 - Chuyển toàn bộ văn bản về chữ thường (lowercase)
@@ -145,7 +145,7 @@ pig -x local scripts/bai5_top_related_by_category.pig
 
 ---
 
-## 5. Evidence
+## 6. Evidence
 
 Ảnh minh chứng được lưu trong thư mục `evidence/`:
 
