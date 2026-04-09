@@ -152,9 +152,9 @@ pig -x local scripts/bai5_top_related_by_category.pig
 | File                    | Nội dung                                                                             |
 | ----------------------- | ------------------------------------------------------------------------------------ |
 | `01_bai1_result.jpg`    | **Bài 1** — Danh sách từ sau tiền xử lý (`cat output/bai1/part-r-00000 \| head -20`) |
-| `02_bai2_word_freq.jpg` | **Bài 2a** — Từ xuất hiện > 500 lần                                                  |
-| `02_bai2_category.jpg`  | **Bài 2b** — Số bình luận theo category                                              |
-| `02_bai2_aspect.jpg`    | **Bài 2c** — Số bình luận theo aspect                                                |
+| `02_bai2_word_freq.jpg` | **Bài 2** — Từ xuất hiện > 500 lần                                                  |
+| `02_bai2_category.jpg`  | **Bài 2** — Số bình luận theo category                                              |
+| `02_bai2_aspect.jpg`    | **Bài 2** — Số bình luận theo aspect                                                |
 | `03_bai3_result.jpg`    | **Bài 3** — Aspect có nhiều negative / positive nhất                                 |
 | `04_bai4_positive.jpg`  | **Bài 4** — Top 5 từ positive                                                        |
 | `04_bai4_negative.jpg`  | **Bài 4** — Top 5 từ negative                                                        |
